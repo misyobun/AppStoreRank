@@ -1,0 +1,15 @@
+{
+  "name": "appstorerank",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "hoge"
+  },
+  "author": "misyobun",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^2.5.0",
+    "cheerio-httpcli": "^0.7.1"
+  }
+}
