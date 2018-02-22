@@ -1,6 +1,6 @@
 ### What is this?
 
-This is a module that reports AppStore ranking by genre for arbitrary applications.
+This is a module that reports AppStore ranking by genre for arbitrary app.
 
 ### Usage
 ```
