@@ -6,6 +6,10 @@
   "scripts": {
     "test": "hoge"
   },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/misyobun/AppStoreRank.git"
+  },
   "author": "misyobun",
   "license": "MIT",
   "dependencies": {
